@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Royal Vanam Green Cardamom</title>
+  <desc id="desc">Illustration of green cardamom pods and leaves on a warm ivory background.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fbf7ed"/>
+      <stop offset="1" stop-color="#e8dcc0"/>
+    </linearGradient>
+    <linearGradient id="pod" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#758a53"/>
+      <stop offset="1" stop-color="#334c35"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#789064"/>
+      <stop offset="1" stop-color="#234332"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#paper)"/>
+  <rect x="34" y="34" width="832" height="1032" rx="28" fill="none" stroke="#b48f3a" stroke-width="3"/>
+  <circle cx="450" cy="450" r="285" fill="#12372a"/>
+  <circle cx="450" cy="450" r="265" fill="none" stroke="#d9b45c" stroke-opacity=".75" stroke-width="2"/>
+  <g fill="url(#leaf)" stroke="#d3bf84" stroke-opacity=".7" stroke-width="3">
+    <path d="M449 465C313 262 187 248 149 258c29 128 140 252 300 227Z"/>
+    <path d="M453 453c74-234 210-295 252-291-5 138-85 277-247 324Z"/>
+    <path d="M458 480c155-127 277-106 312-84-79 121-192 191-321 139Z"/>
+  </g>
+  <g fill="none" stroke="#d7c58c" stroke-opacity=".75" stroke-width="4" stroke-linecap="round">
+    <path d="M450 472 183 275M450 472 692 180M452 474l278-55"/>
+    <path d="m259 332 46-9m-4 60 49-7m-6 59 49-4m174-143-30 47m-25-3-17 52m-2 28-13 48m147-80-48 21m-8 39-48 13"/>
+  </g>
+  <g stroke="#e1d09c" stroke-width="5">
+    <g transform="rotate(-24 372 494)">
+      <path d="M372 345c70 56 93 204 0 296-93-92-70-240 0-296Z" fill="url(#pod)"/>
+      <path d="M372 361v258m-1-198 37 31m-37 19-38 34m38 23 37 31m-37 20-30 26" fill="none" stroke="#c6b779" stroke-width="4"/>
+    </g>
+    <g transform="rotate(22 526 508)">
+      <path d="M526 354c66 54 87 195 0 285-87-90-66-231 0-285Z" fill="url(#pod)"/>
+      <path d="M526 370v244m0-184 35 30m-35 22-35 32m35 18 34 31m-34 17-28 25" fill="none" stroke="#c6b779" stroke-width="4"/>
+    </g>
+    <g transform="rotate(4 449 578)">
+      <path d="M449 448c62 48 81 173 0 254-81-81-62-206 0-254Z" fill="url(#pod)"/>
+      <path d="M449 464v219m0-161 31 27m-31 18-31 28m31 18 30 27m-30 14-25 23" fill="none" stroke="#c6b779" stroke-width="4"/>
+    </g>
+  </g>
+  <text x="450" y="824" text-anchor="middle" fill="#12372a" font-family="Georgia,serif" font-size="50" letter-spacing="9">ROYAL VANAM</text>
+  <path d="M248 856h404" stroke="#b48f3a" stroke-width="2"/>
+  <text x="450" y="916" text-anchor="middle" fill="#6b5830" font-family="Arial,sans-serif" font-size="27" letter-spacing="8">GREEN CARDAMOM</text>
+  <text x="450" y="966" text-anchor="middle" fill="#766d5d" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">AROMATIC · CAREFULLY SOURCED</text>
+</svg>
